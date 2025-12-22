@@ -2,9 +2,19 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
-###
+<h1 align="center">Hi there, I'm Kinin! 👋</h1>
+<h3 align="center">🚀 Full Stack Developer | ⚡ Electrical & Electronics Engineer | ☕ Coffee Consumer | 🐛 Professional Bug Creator</h3>
+
+<div align="center">
+  <i>"I eat bugs for breakfast." Like a BOSS</i><br>
+</div>
 
 <br clear="both">
+
+<div align="center">
+  <h3>🕹️ Contribution Activity</h3>
+  <i>What is the time ratio of 1x to 5x?</i>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kinin-Code-Offical/Kinin-Code-Offical/output/pacman-contribution-graph-dark.svg">
@@ -16,8 +26,8 @@
 
 <br clear="both">
 
-<div align="left">
-  <a href="yamacgursel0@gmail.com" target="_blank">
+<div align="center">
+  <a href="mailto:yamacgursel0@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
   <a href="https://patreon.com/YamacGursel" target="_blank">
@@ -27,61 +37,68 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="javascript logo"  />
+<h3 align="center">🛠️ My Arsenal</h3>
+<p align="center"><i>Languages and tools I use to confuse computers:</i></p>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="20" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="20" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="20" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="20" alt="googlecloud logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
   <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="20" alt="pytorch logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
   <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="20" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="20" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="20" alt="apache logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
   <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="4" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="20" alt="tensorflow logo"  />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
   <img width="4" />
-  <img src="https://skillicons.dev/icons?i=ts" height="20" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="4" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="20" alt="arduino logo"  />
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
+  <img width="4" />  <img src="https://skillicons.dev/icons?i=matlab" height="40" alt="matlab logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="raspberrypi logo"  />
+  <img width="10" />  <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  />
   <img width="4" />
-  <img src="https://skillicons.dev/icons?i=electron" height="20" alt="electron logo"  />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img width="4" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="20" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
   <img width="4" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="20" alt="flutter logo"  />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
   <img width="4" />
-  <img src="https://skillicons.dev/icons?i=ps" height="20" alt="adobephotoshop logo"  />
+  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
   <img width="4" />
-  <img src="https://skillicons.dev/icons?i=ae" height="20" alt="adobeaftereffects logo"  />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
   <img width="4" />
-  <img src="https://skillicons.dev/icons?i=angular" height="20" alt="angularjs logo"  />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
   <img width="4" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="20" alt="nodejs logo"  />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
   <img width="4" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="20" alt="npm logo"  />
-  <img width="4" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="20" alt="linux logo"  />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  />
 </div>
 
 ###
+
+<h3 align="center">📊 The "I swear I'm productive" Stats</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kinin-Code-Offical&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1&custom_title=Stats" height="200" alt="stats graph"  />
@@ -92,6 +109,10 @@
 ###
 
 <br clear="both">
+
+<div align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
+</div>
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
