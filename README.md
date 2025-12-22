@@ -1,12 +1,12 @@
 <h1 align="center">WHO AM I?</h1>
 <h3 align="center">🚀 Full Stack Developer | ⚡ Electrical & Electronics Engineer | ☕ Coffee Consumer | 🐛 Professional Bug Creator</h3>
-
+<br clear="both" >
+<div align="center">
 <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
-
+</div>
 <br clear="both">
 
 <h3 align="left">🛠️ My Arsenal</h3>
-<br clear="both" >
 <p align="left"><i>Languages and tools I use to confuse computers:</i></p>
 
 <div align="center">
@@ -64,6 +64,7 @@
   <img width="2" />
   <img src="https://cdn.simpleicons.org/linux/FCC623" height="20" alt="linux logo"  />
 </div>
+<br clear="both">
 
 <h3 align="center">📊 The "I swear I'm productive" Stats(Not working for me these days)</h3>
 <picture>
