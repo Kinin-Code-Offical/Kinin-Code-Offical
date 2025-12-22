@@ -1,5 +1,5 @@
 <h1 align="center">WHO AM I?</h1>
-<h3 align="center">🚀 Full Stack Developer | ⚡ Electrical & Electronics Engineer | ☕ Coffee Consumer | 🐛 Professional Bug Creator</h3>
+<h3 align="center"> Full Stack Developer | Electrical & Electronics Engineer </h3>
 <br clear="both" >
 <div align="center">
 <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
