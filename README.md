@@ -7,7 +7,7 @@
 <br clear="both">
 
 <h3 align="left">🛠️ My Arsenal</h3>
-<p align="left"><i>Languages and tools I use to confuse computers:</i></p>
+<p align="left"><i>Languages and tools I use:</i></p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="javascript logo"  />
@@ -66,7 +66,7 @@
 </div>
 <br clear="both">
 
-<h3 align="center">📊 The "I swear I'm productive" Stats(Not working for me these days)</h3>
+<h3 align="center">📊 I am not productive these days</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kinin-Code-Offical/Kinin-Code-Offical/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kinin-Code-Offical/Kinin-Code-Offical/output/pacman-contribution-graph.svg">
