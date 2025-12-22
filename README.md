@@ -3,7 +3,7 @@
 
 <br clear="both">
 
-###
+<h1\>
 
 <h3 align="center">🛠️ My Arsenal</h3>
 <p align="center"><i>Languages and tools I use to confuse computers:</i></p>
@@ -74,7 +74,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kinin-Code-Offical/Kinin-Code-Offical/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kinin-Code-Offical/Kinin-Code-Offical/output/pacman-contribution-graph.svg">
 </picture>
-###
 
 <h3 align="center">📊 The "I swear I'm productive" Stats(Not working for me these days)</h3>
 
@@ -83,8 +82,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kinin-Code-Offical&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=tokyonight&hide_border=true&order=2&custom_title=Recent%20Used%20Languages" height="200" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kinin-Code-Offical&radius=16&theme=gotham&area=true&order=5&custom_title=%20Contributions%20Made%20Last%20Month" height="350" alt="activity-graph graph"  />
 </div>
-
-###
 
 <br clear="both">
 
