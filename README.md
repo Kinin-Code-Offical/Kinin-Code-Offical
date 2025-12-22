@@ -3,17 +3,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <h3>🕹️ Contribution Activity</h3>
-  <i>What is the time ratio of 1x to 5x?</i>
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kinin-Code-Offical/Kinin-Code-Offical/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kinin-Code-Offical/Kinin-Code-Offical/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kinin-Code-Offical/Kinin-Code-Offical/output/pacman-contribution-graph.svg">
-</picture>
-
 ###
 
 <h3 align="center">🛠️ My Arsenal</h3>
@@ -75,6 +64,16 @@
   <img src="https://cdn.simpleicons.org/linux/FCC623" height="30" alt="linux logo"  />
 </div>
 
+<div align="center">
+  <h3>🕹️ Contribution Activity</h3>
+  <i>What is the time ratio of 1x to 5x?</i>
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kinin-Code-Offical/Kinin-Code-Offical/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kinin-Code-Offical/Kinin-Code-Offical/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kinin-Code-Offical/Kinin-Code-Offical/output/pacman-contribution-graph.svg">
+</picture>
 ###
 
 <h3 align="center">📊 The "I swear I'm productive" Stats(Not working for me these days)</h3>
