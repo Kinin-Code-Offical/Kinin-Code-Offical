@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Yamaç! 👋</h1>
+<h1 align="center">ABOUT ME (yamaç)</h1>
 <h3 align="center">🚀 Full Stack Developer | ⚡ Electrical & Electronics Engineer | ☕ Coffee Consumer | 🐛 Professional Bug Creator</h3>
 
 <br clear="both">
