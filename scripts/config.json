@@ -1,0 +1,30 @@
+{
+  "displayName": "Yamaç Gürsel",
+  "username": "Kinin-Code-Offical",
+  "tagline": "Full-stack engineer crafting AI/ML-first experiences on resilient cloud foundations.",
+  "theme": {
+    "primary": "#6fb5ff",
+    "secondary": "#0d1b2a",
+    "accent": "#ffd166",
+    "muted": "#8892b0"
+  },
+  "now": [
+    "Shipping a lightweight AI-assisted dashboard for ops teams.",
+    "Experimenting with edge + serverless hybrids on AWS/GCP.",
+    "Mentoring students on modern TypeScript and MLOps fundamentals."
+  ],
+  "featuredOverrides": [
+    "Kinin-Code-Offical/kinin-next-template",
+    "Kinin-Code-Offical/ml-toolkit",
+    "Kinin-Code-Offical/cloud-starters"
+  ],
+  "social": {
+    "portfolio": "https://example.com",
+    "email": "mailto:yamacgursel0@gmail.com",
+    "patreon": "https://patreon.com/YamacGursel",
+    "resume": "https://example.com/resume.pdf",
+    "linkedin": "https://www.linkedin.com/in/example",
+    "twitter": "https://twitter.com/example",
+    "discord": "https://discord.gg/example"
+  }
+}

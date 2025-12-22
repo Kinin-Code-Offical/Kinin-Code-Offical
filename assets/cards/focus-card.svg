@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="520" height="210" viewBox="0 0 520 210" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Focus card">
+  <style>
+    :root { --bg: #ffffff; --fg: #0d1b2a; --muted: #8892b0; --accent: #ffd166; --primary: #6fb5ff; }
+    @media (prefers-color-scheme: dark) { :root { --bg: #0b1221; --fg: #eef2ff; --muted: #a5b4cc; } }
+    text { font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }
+  </style>
+  <rect width="100%" height="100%" rx="14" fill="var(--bg)" stroke="var(--primary)" stroke-width="1.5" />
+  <text x="24" y="40" fill="var(--fg)" font-size="18" font-weight="700">Focus</text>
+  <text x="24" y="62" fill="var(--muted)" font-size="12">Recent language mix and streak</text>
+  <g transform="translate(24, 90)">
+        <text y="0" fill="var(--fg)" font-size="13" font-weight="600">TypeScript</text>
+        <text x="380" y="0" fill="var(--muted)" font-size="12" text-anchor="end">62.6%</text>
+        <rect x="0" y="8" width="225" height="10" fill="#3178c6" rx="5" opacity="0.85" />
+        <rect x="225" y="8" width="135" height="10" fill="var(--muted)" opacity="0.15" rx="5" />
+      </g>
+<g transform="translate(24, 118)">
+        <text y="0" fill="var(--fg)" font-size="13" font-weight="600">Dart</text>
+        <text x="380" y="0" fill="var(--muted)" font-size="12" text-anchor="end">28%</text>
+        <rect x="0" y="8" width="101" height="10" fill="#00B4AB" rx="5" opacity="0.85" />
+        <rect x="101" y="8" width="259" height="10" fill="var(--muted)" opacity="0.15" rx="5" />
+      </g>
+<g transform="translate(24, 146)">
+        <text y="0" fill="var(--fg)" font-size="13" font-weight="600">PHP</text>
+        <text x="380" y="0" fill="var(--muted)" font-size="12" text-anchor="end">4%</text>
+        <rect x="0" y="8" width="14" height="10" fill="#4F5D95" rx="5" opacity="0.85" />
+        <rect x="14" y="8" width="346" height="10" fill="var(--muted)" opacity="0.15" rx="5" />
+      </g>
+<g transform="translate(24, 174)">
+        <text y="0" fill="var(--fg)" font-size="13" font-weight="600">PowerShell</text>
+        <text x="380" y="0" fill="var(--muted)" font-size="12" text-anchor="end">1.3%</text>
+        <rect x="0" y="8" width="6" height="10" fill="#012456" rx="5" opacity="0.85" />
+        <rect x="6" y="8" width="354" height="10" fill="var(--muted)" opacity="0.15" rx="5" />
+      </g>
+  <g transform="translate(24, 190)">
+    <text y="0" fill="var(--fg)" font-size="13" font-weight="700">0 day streak · longest 15</text>
+    <text x="360" y="0" fill="var(--muted)" font-size="12" text-anchor="end">Last active: 2025-12-22</text>
+  </g>
+</svg>

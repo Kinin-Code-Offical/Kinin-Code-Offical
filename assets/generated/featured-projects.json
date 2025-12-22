@@ -1,0 +1,83 @@
+{
+  "generatedAt": "2025-12-22T04:30:57.607Z",
+  "repos": [
+    {
+      "nameWithOwner": "Kinin-Code-Offical/deniko",
+      "description": "Comprehensive Student & Finance Management System for Deniko.net. Built with Next.js 16, Tailwind v4, and Prisma v7.",
+      "url": "https://github.com/Kinin-Code-Offical/deniko",
+      "stargazerCount": 2,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "updatedAt": "2025-12-20T12:55:25Z",
+      "reason": "pinned"
+    },
+    {
+      "nameWithOwner": "Kinin-Code-Offical/cloudsqlctl",
+      "description": "Windows-native CLI to install, update, and manage Google Cloud SQL Auth Proxy with gcloud integration. Secure, production-ready, and fully automated.",
+      "url": "https://github.com/Kinin-Code-Offical/cloudsqlctl",
+      "stargazerCount": 1,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "updatedAt": "2025-12-22T04:17:59Z",
+      "reason": "pinned"
+    },
+    {
+      "nameWithOwner": "Kinin-Code-Offical/sigortacu",
+      "description": "Flutter Tabanlı Sigorta Yönetim Sistemi Özel birisi İçin Tasarlanmaktadır (OnGoing)",
+      "url": "https://github.com/Kinin-Code-Offical/sigortacu",
+      "stargazerCount": 1,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "Dart",
+        "color": "#00B4AB"
+      },
+      "updatedAt": "2025-12-22T02:57:54Z",
+      "reason": "pinned"
+    },
+    {
+      "nameWithOwner": "Kinin-Code-Offical/prisma-editor",
+      "description": null,
+      "url": "https://github.com/Kinin-Code-Offical/prisma-editor",
+      "stargazerCount": 1,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "updatedAt": "2025-12-22T01:25:46Z",
+      "reason": "pinned"
+    },
+    {
+      "nameWithOwner": "Kinin-Code-Offical/Kinu",
+      "description": "C++/C# Game Engine project , Game Editor C#/WFP . Offiacal Kinu Game Editor and Game Engine source include Graphical Engine, Math Engine, Sound Engine, Networking. For rendering used Direct12(LOST FILE)",
+      "url": "https://github.com/Kinin-Code-Offical/Kinu",
+      "stargazerCount": 1,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "C#",
+        "color": "#178600"
+      },
+      "updatedAt": "2025-12-22T01:14:18Z",
+      "reason": "top-star"
+    },
+    {
+      "nameWithOwner": "Kinin-Code-Offical/fantasy-center-v1",
+      "description": null,
+      "url": "https://github.com/Kinin-Code-Offical/fantasy-center-v1",
+      "stargazerCount": 1,
+      "forkCount": 0,
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "updatedAt": "2025-12-22T00:17:14Z",
+      "reason": "top-star"
+    }
+  ]
+}

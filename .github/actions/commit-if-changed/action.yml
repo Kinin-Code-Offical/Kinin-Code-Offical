@@ -1,0 +1,21 @@
+name: Commit if changed
+runs:
+  using: composite
+  steps:
+    - name: Configure git
+      shell: bash
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+    - name: Commit and push if needed
+      shell: bash
+      run: |
+        if [ -z "$(git status --porcelain)" ]; then
+          echo "No changes to commit"
+          exit 0
+        fi
+        git status --short
+        git add -A
+        git commit -m "chore: refresh profile assets"
+        git push
