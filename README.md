@@ -14,6 +14,19 @@
 
 ###
 
+<br clear="both">
+
+<div align="left">
+  <a href="yamacgursel0@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://patreon.com/YamacGursel" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="patreon logo"  />
+  </a>
+</div>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="javascript logo"  />
   <img width="4" />
@@ -72,21 +85,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kinin-Code-Offical&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1&custom_title=Stats" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kinin-Code-Offical&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&order=2&custom_title=Recent%20Used%20Languages" height="120" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kinin-Code-Offical&radius=16&theme=gotham&area=true&order=5&custom_title=%20Contributions%20Made%20Last%20Month" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <a href="yamacgursel0@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://patreon.com/YamacGursel" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="patreon logo"  />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kinin-Code-Offical&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=tokyonight&hide_border=true&order=2&custom_title=Recent%20Used%20Languages" height="200" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kinin-Code-Offical&radius=16&theme=gotham&area=true&order=5&custom_title=%20Contributions%20Made%20Last%20Month" height="350" alt="activity-graph graph"  />
 </div>
 
 ###
