@@ -3,8 +3,6 @@
 
 <br clear="both">
 
-<h1\>
-
 <h3 align="center">🛠️ My Arsenal</h3>
 <p align="center"><i>Languages and tools I use to confuse computers:</i></p>
 
