@@ -1,81 +1,38 @@
-<h1 align="center">WHO AM I?</h1>
-<h3 align="center"> Full Stack Developer | Electrical & Electronics Engineer </h3>
-<br clear="both" >
-<div align="center">
-<i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
-</div>
-<br clear="both">
-
-<h3 align="left">🛠️ My Arsenal</h3>
-<p align="left"><i>Languages and tools I use:</i></p>
+<h1 align="center">Kinin-Code-Offical</h1>
+<h4 align="center">Full Stack Developer | Electrical & Electronics Engineer</h4>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="javascript logo"  />
-  <img width="2" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="react logo"  />
-  <img width="2" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" alt="java logo"  />
-  <img width="2" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20" alt="cplusplus logo"  />
-  <img width="2" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="20" alt="c logo"  />
-  <img width="2" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="20" alt="csharp logo"  />
-  <img width="2" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="20" alt="docker logo"  />
-  <img width="2" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="20" alt="googlecloud logo"  />
-  <img width="2" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo"  />
-  <img width="2" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="20" alt="pytorch logo"  />
-  <img width="2" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="20" alt="jupyter logo"  />
-  <img width="2" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="20" alt="amazonwebservices logo"  />
-  <img width="2" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="20" alt="apache logo"  />
-  <img width="2" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" alt="git logo"  />
-  <img width="2" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="20" alt="tensorflow logo"  />
-  <img width="2" />
-  <img src="https://skillicons.dev/icons?i=ts" height="20" alt="typescript logo"  />
-  <img width="2" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="20" alt="arduino logo"  />
-  <img width="2" />  <img src="https://skillicons.dev/icons?i=matlab" height="20" alt="matlab logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=raspberrypi" height="20" alt="raspberrypi logo"  />
-  <img width="10" />  <img src="https://skillicons.dev/icons?i=electron" height="20" alt="electron logo"  />
-  <img width="2" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="20" alt="firebase logo"  />
-  <img width="2" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="20" alt="flutter logo"  />
-  <img width="2" />
-  <img src="https://skillicons.dev/icons?i=ps" height="20" alt="adobephotoshop logo"  />
-  <img width="2" />
-  <img src="https://skillicons.dev/icons?i=ae" height="20" alt="adobeaftereffects logo"  />
-  <img width="2" />
-  <img src="https://skillicons.dev/icons?i=angular" height="20" alt="angularjs logo"  />
-  <img width="2" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="20" alt="nodejs logo"  />
-  <img width="2" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="20" alt="npm logo"  />
-  <img width="2" />
-  <img src="https://cdn.simpleicons.org/linux/FCC623" height="20" alt="linux logo"  />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=333333&width=435&lines=Hayalim+i%C3%A7in+%C3%A7al%C4%B1%C5%9F%C4%B1yorum.;Building+the+future.;Code+is+my+foundation." alt="Typing SVG" />
+  </a>
 </div>
-<br clear="both">
 
-<h3 align="center">📊 I am not productive these days</h3>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kinin-Code-Offical/Kinin-Code-Offical/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kinin-Code-Offical/Kinin-Code-Offical/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kinin-Code-Offical/Kinin-Code-Offical/output/pacman-contribution-graph.svg">
-</picture>
+<hr>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kinin-Code-Offical&radius=16&theme=gotham&area=true&order=5&custom_title=%20Contributions%20Made%20Last%20Month" height="350" alt="activity-graph graph"  />
+  <br>
+  <img src="https://github.profile.yoshi389101.vercel.app/api/iso_calendar/?username=Kinin-Code-Offical" alt="Isometric City" />
 </div>
 
-<br clear="both">
+<div align="center">
+  <br>
+  <a href="https://kinin-code.dev">
+    <img src="https://img.shields.io/badge/🚧_ZONE:_kinin--code.dev-UNDER_CONSTRUCTION-FFD700?style=for-the-badge&logoColor=black&labelColor=000000" alt="Website Construction Site"/>
+  </a>
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kinin-Code-Offical&theme=graywhite&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak-stats"/>
+</div>
+
+<hr>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kinin-Code-Offical&style=flat-square&color=lightgrey&label=SITE+VISITORS" alt="views" />
+  <br><br>
+  
+  <a href="mailto:yamac@kinin-code.dev">
+    <img src="https://img.shields.io/badge/Email-Contact-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </div>
