@@ -32,7 +32,7 @@
   <img src="https://komarev.com/ghpvc/?username=Kinin-Code-Offical&style=flat-square&color=lightgrey&label=SITE+VISITORS" alt="views" />
   <br><br>
   
-  <a href="mailto:yamac@kinin-code.dev">
-    <img src="https://img.shields.io/badge/Email-Contact-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:developer@kinin-code.dev">
+    <img src="htt<ps://img.shields.io/badge/Email-Contact-333333?style=for-the-badge&logo=gmail&logoColor=white" alt=""/>
   </a>
 </div>
