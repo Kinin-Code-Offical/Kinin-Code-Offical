@@ -6,15 +6,14 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=333333&width=435&lines=Working+for+my+dreams.;Building+the+future+tools.;" alt="Typing SVG" />
   </a>
 </div>
-
-<hr>
-
 <div align="center">
   <br>
   <a href="https://kinin-code.dev">
     <img src="https://img.shields.io/badge/URL-kinin--code.dev-1f6feb?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Website URL"/>
   </a>
 </div>
+<hr>
+
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="rainbow city" />
 </div>
