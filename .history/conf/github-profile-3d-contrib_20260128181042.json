@@ -1,0 +1,19 @@
+[
+  {
+    "type": "gitblock",
+    "fileName": "profile-lego-blue.svg",
+    "backgroundColor": "#f6f8fa",
+    "foregroundColor": "#24292f",
+    "strongColor": "#0b5cad",
+    "weakColor": "#8c959f",
+    "radarColor": "#0969da",
+    "growingAnimation": false,
+    "contribColors": [
+      "#eff6ff",
+      "#cfe1ff",
+      "#9ec5ff",
+      "#5b9cff",
+      "#1f6feb"
+    ]
+  }
+]
