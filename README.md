@@ -17,10 +17,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kinin-Code-Offical&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1&custom_title=Stats" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kinin-Code-Offical&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=tokyonight&hide_border=true&order=2&custom_title=Recent%20Used%20Languages" height="200" alt="languages graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kinin-Code-Offical&theme=tokyonight&hide_border=true" height="200" alt="streak stats" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kinin-Code-Offical&radius=16&theme=gotham&area=true&order=5&custom_title=%20Contributions%20Made%20Last%20Month" height="350" alt="activity-graph graph"  />
 </div>
 
 <div align="center">
