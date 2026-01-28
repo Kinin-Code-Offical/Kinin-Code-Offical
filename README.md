@@ -17,10 +17,6 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Kinin-Code-Offical&theme=tokyonight&hide_border=true" height="200" alt="streak stats" />
-</div>
-
-<div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="isometric city" />
 </div>
 
