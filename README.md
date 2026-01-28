@@ -15,11 +15,6 @@
     <img src="https://img.shields.io/badge/URL-kinin--code.dev-1f6feb?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Website URL"/>
   </a>
 </div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Kinin-Code-Offical&theme=tokyonight&hide_border=true" height="200" alt="streak stats" />
-</div>
-
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="rainbow city" />
 </div>
