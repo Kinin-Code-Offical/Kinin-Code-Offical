@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-lego-blue.svg" alt="lego blue profile" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="rainbow city" />
 </div>
 
 <hr>
